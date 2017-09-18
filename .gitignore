@@ -1,6 +1,7 @@
 #################
 ## Eclipse
 #################
+skynet/
 *.pydevproject
 .project
 .metadata
